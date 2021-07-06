@@ -1,6 +1,6 @@
 body{
     font-family: 'Otomanopee One', sans-serif;
-   margin: 0%;
+    margin: 0%;
 }
 h1{
     font-size: 60px;
@@ -14,7 +14,7 @@ section{
 }
 .flexible{
     display: flex;
-    margin: 2%;
+    
 }
 .half-width{
     width: 50%;
@@ -47,8 +47,6 @@ section{
 .second-part{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
-    margin-bottom: 5%;
-   
 }
 .second-part p{
     margin-bottom: 15%;
@@ -61,21 +59,17 @@ section{
 .third-part p{
     margin-bottom: 5%;
 }
-
 .half-width-new{
     width: 33.3%;
     border: 5px white solid;
     border-radius: 30px;
     box-shadow:  10px 10px 40px grey;
     padding: 1%;
-
-
+    margin-bottom: 3%;
 }
 .half-width-new img{
-    width: 100%;
-    
+    width: 100%;   
 }
-
 .half-width-review{
     width: 50%;
     padding: 2%;
@@ -84,7 +78,6 @@ section{
 .reviews-part{
     margin-left: 7%;
     margin-right: 7%;
-
 }
 .bottom-container{
 	background-color: #01090c;
